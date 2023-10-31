@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  outline-style: none;
+}
+
+body {
+  width: 100%;
+  max-width: 1920px;
+  min-width: 840px;
+  margin: 0 auto;
+}
